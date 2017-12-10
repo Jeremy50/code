@@ -1,0 +1,4 @@
+import time
+while(True):
+  a = int('How many seconds do you want to wait?')
+  print(a)
